@@ -1,0 +1,23 @@
+{
+  "name": "wecanstartup",
+  "version": "1.0.0",
+  "description": "Make your startup dreams come true",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wecanstartup/wecanstartup.git"
+    
+  },
+  "keywords": [
+    "startup"
+  ],
+  "author": "Nijinsha",
+  "license": "ISC"
+}
